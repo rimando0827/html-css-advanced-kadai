@@ -79,6 +79,7 @@ PC用のスタイル
     #menu-sp {
         float: right;
         padding: 0;
+        border: none;
     }
 
     /* スマホ用ナビゲーションの表示切替 */
